@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my little corner! I am Emaan Umer</h1>
-<h3 align="center">I do AI and Game Development. Mostly, I battle with stubborn pieces of code.</h3>
+<h3 align="center">I do Cybersecurity and Pen Testing! Mostly, I battle with stubborn pieces of code.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
